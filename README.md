@@ -4,7 +4,7 @@
 
 
 ## Demo 
-**Note that the follwing script doesn't provide paring arguments, so the file path used in scripts may need to bi modified manually !**
+Note that the follwing script doesn't provide paring arguments, so the file path used in scripts may need to bi modified manually !
 ### Align sequencing data on the reference genome 
 ```R
 bash dm3/align.sh
@@ -18,13 +18,13 @@ bash dm3/build.sh
 Rscript
 ```
 
-
+<br \><br \>
 ## Folder description
 
 ### docs
 slides
 ### dm3
-***All BWA and HiCexplorer file.***Include scripts, data, output file, output image.
+**All BWA and HiCexplorer file.**Include scripts, data, output file, output image.
 * align  -  all BWA alignment input data, output data
 * contact_matrix  -  all Hi-C matrix-related files, include .h5 file and contact map image 
 * QC - output QC file from the process of building Hi-C matrix 
@@ -34,8 +34,11 @@ slides
 ### code
 ### result
 
+
+<br \><br \>
 ## Dependency
 
+<br \><br \>
 ## References
 * BWA usage guild : http://starsyi.github.io/2016/05/24/BWA-%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/
 * HiCExlorer official documents : https://hicexplorer.readthedocs.io/en/latest/
