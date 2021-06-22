@@ -1,0 +1,2 @@
+File	inter chromosomal	inter chromosomal %	Intra short range (< 20kb)	Intra short range (< 20kb) %	Intra long range (>= 20kb)	Intra long range (>= 20kb) %
+contact_matrix/dm3.h5	383105	0.08524239920735172	1634701	0.36372752959803983	2476495	0.5510300711946085

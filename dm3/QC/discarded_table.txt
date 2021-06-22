@@ -1,0 +1,2 @@
+File	One mate not close to rest site	One mate not close to rest site %	dangling end GATC %	duplicated pairs	duplicated pairs %	same fragment	same fragment %	self circle	self circle %	self ligation (removed)	self ligation (removed) %
+contact_matrix/dm3.h5	0	0.0	0.05164893507432054	200965	0.03184951100108878	857688	0.13592886020701034	23889	0.0037859974040505054	430980	0.0683029495247891

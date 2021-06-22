@@ -1,0 +1,2 @@
+File	Read pair type: inward pairs	Read pair type: inward pairs %	Read pair type: outward pairs	Read pair type: outward pairs %	Read pair type: left pairs	Read pair type: left pairs %	Read pair type: right pairs	Read pair type: right pairs %
+contact_matrix/dm3.h5	986075	0.23985112847940113	1050852	0.255607370701859	1037571	0.25237692389270666	1036698	0.2521645769260332

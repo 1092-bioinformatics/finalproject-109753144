@@ -1,0 +1,2 @@
+File	Hi-C contacts	Hi-C contacts_%	Low mapping quality	Low mapping quality_%	One mate not unique	One mate not unique_%	One mate unmapped	One mate unmapped_%
+contact_matrix/dm3.h5	4494301	0.4062663334071566	1191414	0.10769892745277945	3211353	0.2902931086694177	349853	0.0316252728825893
