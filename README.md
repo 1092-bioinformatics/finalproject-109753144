@@ -4,7 +4,7 @@
 
 <br /><br />
 ## Demo 
->Note that the follwing script doesn't provide paring arguments, so the file path used in scripts may need to bi modified manually !
+>Note that the follwing script doesn't provide parsing arguments, so the file path used in scripts may need to bi modified manually !
 #### Align sequencing data on the reference genome 
 ```R
 bash dm3/align.sh
